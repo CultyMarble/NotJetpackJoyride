@@ -1,13 +1,28 @@
 ![Capture](https://github.com/CultyMarble/NotJetpackJoyride/assets/13515227/2b2e00c5-adfe-41ac-bb5a-6a41b29d6463)
 # **PROJECT OVERVIEW**
+
+![Animation](https://github.com/CultyMarble/NotJetpackJoyride/assets/13515227/75ee0aee-2c0d-4627-a8ec-4b9f5b271709)
+
 This is a game project I contributed for ***VGP135-Intro To Mobile Programming*** course at ***Lasalle College***.
 The project is our best attemp at cloning a very famous arcade mobile game: ***Jetback JoyRide***. We had been working on it for 11 weeks.
 In this project, I work as a technical artist, my main job is to create pixel art for the game and implement systems that require fine-tuning between art and programming like the background generator.
 ### How to play:
 - PC: [Left-mouse] to use your backpack
 
-![Animation](https://github.com/CultyMarble/NotJetpackJoyride/assets/13515227/75ee0aee-2c0d-4627-a8ec-4b9f5b271709)
-## **CONTRIBUTED FREATURES:**
+# **TEAM MEMBER**
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/c822852d-919a-49d6-b377-ee0781258936) https://github.com/SleepingDragon0
+
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/742280df-39a0-47c9-8665-f5733e589e7f) https://github.com/LeahTaurisano
+
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/0ac794c1-d76e-4cc7-be9f-8a6e3dc693dc) https://github.com/twdaviss
+
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/859b874c-3a0c-44f5-9062-506bad1ea22e) https://github.com/PhiBeo
+
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/3ddd6336-0f50-485b-8698-ac1541474f4a) https://github.com/MiguelAyala25
+
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/f2c4675a-b38a-4551-8ac2-e0234ec5df36) https://github.com/NicholasOkovic
+
+## **CONTRIBUTED FREATURES**
 
 ### 1. COIN SYSTEM
 #### Key features:
