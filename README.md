@@ -9,18 +9,24 @@ In this project, I work as a technical artist, my main job is to create pixel ar
 ### How to play:
 - PC: [Left-mouse] to use your backpack
 
-# **TEAM MEMBER**
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/c822852d-919a-49d6-b377-ee0781258936) https://github.com/SleepingDragon0
+# **TEAM MEMBER GITHUB**
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/c822852d-919a-49d6-b377-ee0781258936)
+[Visit SleepingDragon0 (Product Manager)](https://github.com/SleepingDragon0)
 
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/742280df-39a0-47c9-8665-f5733e589e7f) https://github.com/LeahTaurisano
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/742280df-39a0-47c9-8665-f5733e589e7f)
+[Visit LeahTaurisano (Tech Lead)](https://github.com/LeahTaurisano)
 
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/0ac794c1-d76e-4cc7-be9f-8a6e3dc693dc) https://github.com/twdaviss
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/0ac794c1-d76e-4cc7-be9f-8a6e3dc693dc) 
+[Visit twdaviss (Gameplay Programmer)](https://github.com/twdaviss)
 
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/859b874c-3a0c-44f5-9062-506bad1ea22e) https://github.com/PhiBeo
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/859b874c-3a0c-44f5-9062-506bad1ea22e) 
+[Visit PhiBeo (Network Programmer)](https://github.com/PhiBeo)
 
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/3ddd6336-0f50-485b-8698-ac1541474f4a) https://github.com/MiguelAyala25
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/3ddd6336-0f50-485b-8698-ac1541474f4a) 
+[Visit MiguelAyala25 (Gerneral Programmer)](https://github.com/MiguelAyala25)
 
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/f2c4675a-b38a-4551-8ac2-e0234ec5df36) https://github.com/NicholasOkovic
+![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/f2c4675a-b38a-4551-8ac2-e0234ec5df36) 
+[Visit NicholasOkovic (General Programmer)](https://github.com/NicholasOkovic)
 
 ## **CONTRIBUTED FREATURES**
 
